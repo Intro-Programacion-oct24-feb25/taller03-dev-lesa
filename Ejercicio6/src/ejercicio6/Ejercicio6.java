@@ -14,15 +14,16 @@ public class Ejercicio6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int v1 = 3;
-        int v2 = 10;
-        int v3 = 1;
+        double v1 = 3;
+        double v2 = 10;
+        double v3 = 1;
         
         double uva = ((Math.sqrt(Math.pow(v1,4)))+Math.pow(v1,2))/v1;
         double pera = Math.pow(v1,2);
-        boolean papa = uva == pera;
-        
-        
+        boolean papaya = uva == pera;
+        boolean papa = (v2>v3);
+        System.out.println(papaya && papa);        
+    }
         
     
 }
