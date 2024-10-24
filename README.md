@@ -1,4 +1,6 @@
 # Taller3
+ester fustero
+Luis Sánchez
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
 
 ### Ejercicio01
